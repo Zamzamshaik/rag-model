@@ -1,4 +1,4 @@
-stream lit
+streamlit
 python-dotenv
 langchain
 langchain-groq
